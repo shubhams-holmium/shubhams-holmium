@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hi, I’m SHUBHAM SHARMA
+Welcome to my GitHub profile!
 
-<!--
-**shubhams-holmium/shubhams-holmium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 About Me
+💼 Role: Backend Developer
+🌍 Location: Noida
+🎯 Interests: Nothing
+🌱 Currently learning: How to make a highly complex program which prints "Hello world!".
+🛠️ Tech Stack
+Languages
 
-Here are some ideas to get you started:
+Python | JavaScript | Java.
+Frameworks & Libraries
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+React | Node.js | Express.js | Next.js | Nest.js.
+Tools & Platforms
+
+Git | GitHub | Docker | Linux | VS Code
+✨ Fun Facts
+⚡ Fun is used to describe fun.
+Thanks for stopping by! ⭐ Feel free to explore my repositories and connect with me.
